@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Çağatay</h1>
+<h1 align="center">Hi 👋, I'm Çağatay</h1>
 <h3 align="center">A passionate future software developer</h3>
 
 - 🌱 I’m currently learning Java **by courses**
