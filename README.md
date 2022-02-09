@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağatay</h1>
 <h3 align="center">A passionate future software developer</h3>
 
-- 🌱 I’m currently learning Java **by courses**
+- 🌱 I’m currently learning Front-End Development**by courses**
 
 - 📫 How to reach me **cagtayipek@hotmail.com**
 
